@@ -2,6 +2,7 @@
 title: "Genesis"
 date: 2021-08-01T18:30:25+02:00
 draft: false
+hideReadMore: true
 tags: ['ramble']
 ---
 <img src="beginning.jpg" alt="Beginning"

@@ -1,11 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://swedjemark.se/"
 languageCode = "en-us"
 title = "swedjemark"
 theme = "hello-friend"
-
 paginate = 5
-
-publishDir = “docs”
 
 [params]
   # dir name of your blog content (default is `content/posts`).

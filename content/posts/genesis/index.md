@@ -2,7 +2,7 @@
 title: "Genesis"
 date: 2021-08-01T18:30:25+02:00
 draft: false
-hideReadMore: true
+hideReadMore: false
 tags: ['ramble']
 cover: "start.jpg"
 description: "So i decided to get with the times.

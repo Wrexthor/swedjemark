@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swedjemark</title>
+    
+    
+    
+    <link>http://example.org/</link>
+    <description>Recent content on swedjemark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 18:30:25 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genesis</title>
+      <link>http://example.org/posts/genesis/</link>
+      <pubDate>Sun, 01 Aug 2021 18:30:25 +0200</pubDate>
+      
+      <guid>http://example.org/posts/genesis/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          So i decided to get with the times.
+The times of early 2010 when everyone with access to the internet had a blogg. Am i behind? Or will it be just like with fashion, just wait long enought and you can reuse those ugly jeans again.
+Heres something pretty cool, this blog is hosted completly on github! Using only static pages!
+No? You didn&amp;rsquo;t find that cool? Oh well, we can&amp;rsquo;t all be nerds&amp;hellip;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Want to change the balance of communication a bit?
+Find me at
+Email
+LinkedIn
+Instagram
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Want to change the balance of communication a bit?
+Find me at
+Email
+LinkedIn
+Instagram
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

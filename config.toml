@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://swedjemark.se"
 languageCode = "en-us"
 title = "swedjemark"
 theme = "hello-friend"

@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://swedjemark.se/posts/genesis/</loc>
+    <loc>/posts/genesis/</loc>
     <lastmod>2021-08-01T18:30:25+02:00</lastmod>
   </url><url>
-    <loc>http://swedjemark.se/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-08-01T18:30:25+02:00</lastmod>
   </url><url>
-    <loc>http://swedjemark.se/tags/ramble/</loc>
+    <loc>/tags/ramble/</loc>
     <lastmod>2021-08-01T18:30:25+02:00</lastmod>
   </url><url>
-    <loc>http://swedjemark.se/</loc>
+    <loc>/</loc>
     <lastmod>2021-08-01T18:30:25+02:00</lastmod>
   </url><url>
-    <loc>http://swedjemark.se/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-08-01T18:30:25+02:00</lastmod>
   </url><url>
-    <loc>http://swedjemark.se/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://swedjemark.se/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>http://swedjemark.se/contact/</loc>
+    <loc>/contact/</loc>
   </url>
 </urlset>

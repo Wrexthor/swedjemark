@@ -1,4 +1,4 @@
-baseURL = "http://swedjemark.se/"
+baseURL = "/"
 languageCode = "en-us"
 title = "swedjemark"
 theme = "hello-friend"
@@ -17,7 +17,7 @@ publishDir = "docs"
   showMenuItems = 2
 
   # Show reading time in minutes for posts
-  showReadingTime = true
+  showReadingTime = false
 
   # Show table of contents at the top of your posts (defaults to false)
   # Alternatively, add this param to post front matter for specific posts

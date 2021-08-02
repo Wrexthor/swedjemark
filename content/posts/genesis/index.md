@@ -5,10 +5,10 @@ draft: false
 hideReadMore: true
 tags: ['ramble']
 cover: "beginning.jpg"
----
-<img src="beginning.jpg" alt="Beginning"
-	title="Everything must start somewhere" width=30% height=30% />
+description: "So i decided to get with the times.
 
+The times of early 2010 when everyone with access to the internet had a blogg. Am i behind? Or will it be just like with fashion, just wait long enought and you can reuse those ugly jeans again."
+---
 So i decided to get with the times.
 
 The times of early 2010 when everyone with access to the internet had a blogg. Am i behind? Or will it be just like with fashion, just wait long enought and you can reuse those ugly jeans again.

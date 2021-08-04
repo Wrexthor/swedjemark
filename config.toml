@@ -18,7 +18,7 @@ canonifyURLs = true
   showMenuItems = 2
 
   # Show reading time in minutes for posts
-  showReadingTime = false
+  showReadingTime = true
 
   # Show table of contents at the top of your posts (defaults to false)
   # Alternatively, add this param to post front matter for specific posts
@@ -59,7 +59,7 @@ canonifyURLs = true
         identifier = "contact"
         name = "contact"
         url = "/contact"
-#      [[languages.en.menu.main]]
-#        identifier = "about"
-#        name = "about"
-#        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "archive"
+        name = "archive"
+        url = "/archive"

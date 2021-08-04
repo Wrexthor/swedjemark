@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://swedjemark.se/posts/embrace-the-suck/</loc>
+    <lastmod>2021-08-04T10:33:25+02:00</lastmod>
+  </url><url>
+    <loc>https://swedjemark.se/tags/improving/</loc>
+    <lastmod>2021-08-04T10:33:25+02:00</lastmod>
+  </url><url>
+    <loc>https://swedjemark.se/posts/</loc>
+    <lastmod>2021-08-04T10:33:25+02:00</lastmod>
+  </url><url>
+    <loc>https://swedjemark.se/</loc>
+    <lastmod>2021-08-04T10:33:25+02:00</lastmod>
+  </url><url>
+    <loc>https://swedjemark.se/tags/</loc>
+    <lastmod>2021-08-04T10:33:25+02:00</lastmod>
+  </url><url>
     <loc>https://swedjemark.se/posts/genesis/</loc>
     <lastmod>2021-08-01T18:30:25+02:00</lastmod>
   </url><url>
-    <loc>https://swedjemark.se/posts/</loc>
-    <lastmod>2021-08-01T18:30:25+02:00</lastmod>
-  </url><url>
     <loc>https://swedjemark.se/tags/ramble/</loc>
-    <lastmod>2021-08-01T18:30:25+02:00</lastmod>
-  </url><url>
-    <loc>https://swedjemark.se/</loc>
-    <lastmod>2021-08-01T18:30:25+02:00</lastmod>
-  </url><url>
-    <loc>https://swedjemark.se/tags/</loc>
     <lastmod>2021-08-01T18:30:25+02:00</lastmod>
   </url><url>
     <loc>https://swedjemark.se/categories/</loc>

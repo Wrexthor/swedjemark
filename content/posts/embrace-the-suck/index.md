@@ -3,10 +3,10 @@ title: "Embrace the suck"
 date: 2021-08-04T10:33:25+02:00
 draft: false
 hideReadMore: false
-tags: ['improving']
+tags: ['improving','life']
 description: "This blog is, for me, an exercise in embracing the suck. While I'm not a perfectionist (since I never really finish anything) I am quite conscious about the quality of what I create.
 
-It would therefore be very easy to write dozens of drafts without ever publishing anything."
+It would therefore be very easy to write dozens of drafts without ever publishing anything.."
 ---
 This blog is, for me, an exercise in embracing the suck. While I'm not a perfectionist (since I never really finish anything) I am quite conscious about the quality of what I create.
 

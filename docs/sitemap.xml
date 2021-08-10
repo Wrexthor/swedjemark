@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://swedjemark.se/posts/internet/</loc>
+    <lastmod>2021-08-10T10:00:25+02:00</lastmod>
+  </url><url>
+    <loc>https://swedjemark.se/posts/</loc>
+    <lastmod>2021-08-10T10:00:25+02:00</lastmod>
+  </url><url>
+    <loc>https://swedjemark.se/tags/privacy/</loc>
+    <lastmod>2021-08-10T10:00:25+02:00</lastmod>
+  </url><url>
+    <loc>https://swedjemark.se/tags/ramble/</loc>
+    <lastmod>2021-08-10T10:00:25+02:00</lastmod>
+  </url><url>
+    <loc>https://swedjemark.se/</loc>
+    <lastmod>2021-08-10T10:00:25+02:00</lastmod>
+  </url><url>
+    <loc>https://swedjemark.se/tags/</loc>
+    <lastmod>2021-08-10T10:00:25+02:00</lastmod>
+  </url><url>
     <loc>https://swedjemark.se/tags/improving/</loc>
     <lastmod>2021-08-09T21:09:25+02:00</lastmod>
   </url><url>
     <loc>https://swedjemark.se/tags/life/</loc>
     <lastmod>2021-08-09T21:09:25+02:00</lastmod>
   </url><url>
-    <loc>https://swedjemark.se/posts/</loc>
-    <lastmod>2021-08-09T21:09:25+02:00</lastmod>
-  </url><url>
     <loc>https://swedjemark.se/posts/selling/</loc>
-    <lastmod>2021-08-09T21:09:25+02:00</lastmod>
-  </url><url>
-    <loc>https://swedjemark.se/</loc>
-    <lastmod>2021-08-09T21:09:25+02:00</lastmod>
-  </url><url>
-    <loc>https://swedjemark.se/tags/</loc>
     <lastmod>2021-08-09T21:09:25+02:00</lastmod>
   </url><url>
     <loc>https://swedjemark.se/tags/thoughs/</loc>
@@ -27,9 +36,6 @@
     <lastmod>2021-08-04T10:33:25+02:00</lastmod>
   </url><url>
     <loc>https://swedjemark.se/posts/genesis/</loc>
-    <lastmod>2021-08-01T18:30:25+02:00</lastmod>
-  </url><url>
-    <loc>https://swedjemark.se/tags/ramble/</loc>
     <lastmod>2021-08-01T18:30:25+02:00</lastmod>
   </url><url>
     <loc>https://swedjemark.se/archive/</loc>

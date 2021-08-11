@@ -1,6 +1,6 @@
 ---
 title: "Complexity"
-date: 2021-08-11T10:00:25+02:00
+date: 2021-08-11T20:09:25+02:00
 draft: false
 hideReadMore: false
 tags: ['design','thoughs']

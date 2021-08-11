@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design on swedjemark</title>
+    
+    
+    
+    <link>https://swedjemark.se/tags/design/</link>
+    <description>Recent content in design on swedjemark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Aug 2021 10:00:25 +0200</lastBuildDate>
+    
+	<atom:link href="https://swedjemark.se/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Complexity</title>
+      <link>https://swedjemark.se/posts/complexity/</link>
+      <pubDate>Wed, 11 Aug 2021 10:00:25 +0200</pubDate>
+      
+      <guid>https://swedjemark.se/posts/complexity/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          I don&#39;t track you, I don&#39;t use cookies and I don&#39;t throw a bunch of pop-ups in your face. Hell i don&#39;t even know how many visit my site! See how easy that was? Rest of the internet, please take notice!
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 ---
 title: "Great ideas"
-date: 2021-12-03T12:00:25+02:00
+date: 2021-12-06T12:00:25+02:00
 draft: false
 hideReadMore: false
 tags: ['creativity','thoughts']
